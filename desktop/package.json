@@ -1,0 +1,17 @@
+{
+  "name": "desktop",
+  "private": true,
+  "version": "0.1.0",
+  "main": "dist/main.js",
+  "scripts": {
+    "dev": "tsx src/main.ts",
+    "build": "tsc -p tsconfig.json"
+  },
+  "dependencies": {
+    "electron": "35.0.0"
+  },
+  "devDependencies": {
+    "tsx": "4.19.3",
+    "typescript": "5.8.2"
+  }
+}
