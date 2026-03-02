@@ -14,6 +14,13 @@ Generalized authenticated web template with RBAC seams using Angular and TypeScr
 - A baseline for authenticated, role-based Angular web apps.
 - Includes neutral access-control contracts, API boundary placeholders, and optional desktop wrapper.
 
+## Use This Template
+
+1. Click **Use this template** on GitHub to create a new repository.
+2. Rename package/module identifiers and update ownership metadata.
+3. Review `.env.example` and update environment configuration for your target project.
+4. Run validation and CI checks before first release.
+
 ## Quickstart
 
 ### Prerequisites
